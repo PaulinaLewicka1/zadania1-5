@@ -4,6 +4,9 @@
 
 int main(int argc, char** argv)
 {
+
+  int test =3;
+  
   node* head = NULL;
   int select = 1;
   
